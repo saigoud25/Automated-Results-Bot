@@ -29,19 +29,37 @@
 <br>
 <br>
 <h3>Installation</h3>
-<br>
-<b>1. Selenium :<b>
+
+1. Selenium :
   <p>   Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver. Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.</p>
-<br>
+
 pip install selenium <br>
-For more https://selenium-python.readthedocs.io/
+For more : https://selenium-python.readthedocs.io/
 <br><br>
   
-<b>2. Chrome Driver : <b>
+2. Chrome Driver :
   <p>   WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.  ChromeDriver is a standalone server that implements the W3C WebDriver standard. ChromeDriver is available for Chrome on Android and Chrome on Desktop (Mac, Linux, Windows and ChromeOS). </p>
-  <br>
+
   Download : https://chromedriver.chromium.org/downloads
   <br><br>
   
- 
+3. PyQt5 :
+  <p>   Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. These include location and positioning services, multimedia, NFC and Bluetooth connectivity, a Chromium based web browser, as well as traditional UI development. </p>
   
+  pip install PyQt5 <br>
+  For more: https://pypi.org/project/PyQt5/
+  <br><br>
+  
+4. openpyxl :
+  <p> openpyxl is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files. </p>
+  
+  pip install openpyxl <br>
+  For more : https://openpyxl.readthedocs.io/en/stable/#
+  <br><br>
+  
+5. XlsxWriter : 
+  <p> XlsxWriter can be used to write text, numbers, formulas and hyperlinks to multiple worksheets and it supports features such as formatting and many more, including: 100% compatible Excel XLSX files. </p>
+  
+  pip install XlsxWriter <br>
+  For more : https://xlsxwriter.readthedocs.io/
+  <br><br>
