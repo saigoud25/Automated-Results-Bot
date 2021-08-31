@@ -23,3 +23,25 @@
   ![image](https://user-images.githubusercontent.com/42228297/131530106-89dee50b-9b45-4d2f-a83a-fb9fc1a98782.png)
   
 ![image](https://user-images.githubusercontent.com/42228297/131530128-9970ab78-7e8a-4819-900e-024a8dc4ac3d.png)
+
+
+<br>
+<br>
+<br>
+<h3>Installation</h3>
+<br>
+<b>1. Selenium :<b>
+  <p>   Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver. Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.</p>
+<br>
+pip install selenium <br>
+For more https://selenium-python.readthedocs.io/
+<br><br>
+  
+<b>2. Chrome Driver : <b>
+  <p>   WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.  ChromeDriver is a standalone server that implements the W3C WebDriver standard. ChromeDriver is available for Chrome on Android and Chrome on Desktop (Mac, Linux, Windows and ChromeOS). </p>
+  <br>
+  Download : https://chromedriver.chromium.org/downloads
+  <br><br>
+  
+ 
+  
