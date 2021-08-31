@@ -5,9 +5,12 @@
 <br>
 <br>
 <b>UI Screen<b> 
-![image](https://user-images.githubusercontent.com/42228297/131528987-95a45a81-e8b2-49e6-a3fa-0a2c170846c7.png)
+  
+![image](https://user-images.githubusercontent.com/42228297/131528987-95a45a81-e8b2-49e6-a3fa-0a2c170846c7.png) 
+  
 <br>
 <br>
 <b>SAMPLE RESULTS WEBSITE<b>
+  
   ![image](https://user-images.githubusercontent.com/42228297/131529372-16234ebe-c038-4d72-8110-ed632c8eb63e.png)
 
